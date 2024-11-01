@@ -1,0 +1,20 @@
+/* Gallery EXIF Reader CSS */
+
+ul#exifData {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	}
+
+ul#exifData li {
+	margin: 2px 0;
+	}
+
+.exifTitle {
+	background: #666;
+	color: #FFF;
+	width: 100px;
+	margin: 0 3px;
+	padding: 1px 6px;
+	display: inline-block;
+	}
